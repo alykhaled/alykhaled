@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision 
 - 🔭 I’m currently working on Computer vision projects 
 - 👯 I’m looking to collaborate on open source projects
-- 🎓 I’m currently studing engineering in Cairo University
+- 🎓 I’m currently studing engineering at Cairo University
 
 ### Connect with me:
 
