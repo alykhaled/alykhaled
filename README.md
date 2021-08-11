@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision 
 - 🔭 I’m currently working on Computer vision projects 
 - 👯 I’m looking to collaborate on open source projects
+- 📖 Currently Reading: "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron
 - 🎓 I’m currently studing engineering at Cairo University
 
 ### Connect with me:
 
-[<img align="left" alt="alykhaled.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alykhaled.com" width="22px" src="https://user-images.githubusercontent.com/10764089/129069074-5fe70101-fcc8-4355-86e1-7de55eb8b27e.png" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 <br />
 
