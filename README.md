@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Computer vision projects 
 - 👯 I’m looking to collaborate on open source projects
 - 📖 Currently Reading: "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron
-- 🎓 I’m currently studing engineering at Cairo University
+- 🎓 I’m currently studying engineering at Cairo University
 
 ### Connect with me:
 
