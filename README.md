@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
  -->
- 
+ ![toppng com-web-png-jpg-transparent-stock-website-icon-blue-549x547]()
+
 ## I'm an Engineering Student and a developer!!
 
 - 🌱 I’m currently learning Machine Learning and Deep learning specially Computer Vision.
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="alykhaled.com" width="22px" src="https://user-images.githubusercontent.com/10764089/129069074-5fe70101-fcc8-4355-86e1-7de55eb8b27e.png" />][website]
+[<img align="left" alt="alykhaled.com" width="22px" src="https://user-images.githubusercontent.com/10764089/130365018-801c19e1-4acf-44fb-9059-788837013a59.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
