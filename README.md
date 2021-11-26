@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="alykhaled.com" width="22px" src="https://user-images.githubusercontent.com/10764089/130365018-801c19e1-4acf-44fb-9059-788837013a59.png" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
+<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 <br />
