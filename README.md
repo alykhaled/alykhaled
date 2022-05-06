@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/iampawan/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a> -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alykhaled.alykhaled)
 
 <div align="center">
 
