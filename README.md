@@ -34,7 +34,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/alykhaled)](https://leetcode.com/alykhaled?ext=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/alykhaled?ext=activity)](https://leetcode.com/alykhaled)
 
 
 <a href="https://github.com/alykhaled">
