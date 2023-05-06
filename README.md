@@ -36,11 +36,16 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/alykhaled)](https://leetcode.com/alykhaled)
+ <div style="width: 200px;">
 
-<a href="https://github.com/alykhaled">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alykhaled&show_icons=true&theme=light&line_height=27" alt="Aly's github stats"/>
-</a>
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/alykhaled)](https://leetcode.com/alykhaled)
+
+ </div>
+
+
+ <a href="https://github.com/alykhaled" style="width: 400px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alykhaled&show_icons=true&theme=light&line_height=27" alt="Aly's github stats"/>
+ </a>
 </div>
 
 
