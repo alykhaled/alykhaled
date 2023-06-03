@@ -34,18 +34,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
- <div style="width: 200px;">
-
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/alykhaled)](https://leetcode.com/alykhaled)
-
- </div>
-
-
- <a href="https://github.com/alykhaled" style="width: 400px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alykhaled&show_icons=true&theme=light&line_height=27" alt="Aly's github stats"/>
- </a>
+<div style="display: flex; justify-content: space-between; align-items: center;" width="100%">
+ <img width="40%" align="center" src="https://leetcard.jacoblin.cool/alykhaled" alt="Aly's github stats"/>
+  <a href="https://github.com/alykhaled" >
+   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=alykhaled&show_icons=true&theme=light&line_height=27" alt="Aly's github stats"/>
+  </a>
 </div>
 
 
