@@ -12,7 +12,7 @@
 ## My Latest Listened Tracks 
 <img align="center" src="https://musichub-without-twitter.vercel.app/" alt="Aly Tracks"/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alykhaled.alykhaled)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alykhaled.alykhaled) -->
 
 </div>
 
